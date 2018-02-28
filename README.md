@@ -1,6 +1,21 @@
 # hello-stellar
 My journey with Stellar (XLM) 🚀
 
+## Note
+Stellar.org is a Silicon Valley based nonprofit organization that supports the Stellar network, a free, open-source network that connects diverse financial systems and lets anyone build low-cost financial services—payments, savings, loans, insurance—for their community. The Stellar network enables money to move directly between people, companies and financial institutions as easily as email. This interconnectivity means more access for individuals, lower costs for banks, and more revenue for businesses.
+
+
+In keeping with IBM's commitment to open source, the solution is run from the IBM Blockchain Platform on Hyperledger Fabric and was built in collaboration with Stellar.org, a non-profit organization and associate member of Hyperledger, and KlickEx Group, a regional financial services company in the Pacific region. Stellar is an open-source blockchain network that is purpose-built for the issuance and exchange of digital assets. Digital assets are issued on the Stellar network as a foreign exchange bridge to allow for near real time settlement. KlickEx Group serves as the founding financial institution for the region, servicing banks, retail clients and consumers using this new network.
+
+## Why
+- Handle 1,000 - 10,000 tx/sec
+- Lowest fees : 0.00001 `XLM`
+- Build in `DEX`
+- Can issue token and `ICO`
+- Back by `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
+- Production for years
+- Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
+
 ## Projects
 
 ### Smartland (SLT)
@@ -18,7 +33,7 @@ My journey with Stellar (XLM) 🚀
 - wp : https://docsend.com/view/ru9kz86
 - why : https://www.coindesk.com/why-a-39-million-ico-chose-stellar-over-ethereum/
 - trade : https://stellarterm.com/#exchange/MOBI-mobius.network/XLM-native
-- note : Jed is advisor
+- note : Jed McCaleb is an advisor
 
 ### Irene Energy (TLU)
 > Stellar-powered Renewable Electricity Supplier
