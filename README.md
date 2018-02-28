@@ -8,7 +8,8 @@ Stellar.org is a Silicon Valley based nonprofit organization that supports the S
 In keeping with IBM's commitment to open source, the solution is run from the IBM Blockchain Platform on Hyperledger Fabric and was built in collaboration with Stellar.org, a non-profit organization and associate member of Hyperledger, and KlickEx Group, a regional financial services company in the Pacific region. Stellar is an open-source blockchain network that is purpose-built for the issuance and exchange of digital assets. Digital assets are issued on the Stellar network as a foreign exchange bridge to allow for near real time settlement. KlickEx Group serves as the founding financial institution for the region, servicing banks, retail clients and consumers using this new network.
 
 ## Why
-- Handle 1,000 - 10,000 tx/sec
+- Can handle 1,000 - 10,000 tx/sec
+- Low latency : 3-5 secs (Fastest for now)
 - Lowest fees : 0.00001 `XLM`
 - Build in `DEX`
 - Can issue token and `ICO`
