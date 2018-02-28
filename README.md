@@ -1,6 +1,8 @@
 # hello-stellar
 My journey with Stellar (XLM) 🚀
 
+![image](https://user-images.githubusercontent.com/97060/36775144-6547a3a2-1c93-11e8-91d1-bdb520dbd3b5.png)
+
 ## Note
 Stellar.org is a Silicon Valley based nonprofit organization that supports the Stellar network, a free, open-source network that connects diverse financial systems and lets anyone build low-cost financial services—payments, savings, loans, insurance—for their community. The Stellar network enables money to move directly between people, companies and financial institutions as easily as email. This interconnectivity means more access for individuals, lower costs for banks, and more revenue for businesses.
 
