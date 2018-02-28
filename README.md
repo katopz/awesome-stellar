@@ -12,6 +12,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Low latency : 3-5 secs (Fastest for now)
 - Lowest fees : 0.00001 `XLM`
 - Build in `DEX`
+- Secure as `Ripple`
 - Can issue token and `ICO`
 - Back by `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
 - Production for years
