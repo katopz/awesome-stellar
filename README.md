@@ -54,6 +54,14 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
 - note : Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
 
+### LALA World (LALA)
+> Gearing Towards a Decentralised Financial Ecosystem
+- site : https://lalaworld.io/
+- blog : https://blog.lalaworld.io/
+- wp : https://lalaworld.io/whitepaper.pdf
+- why : https://blog.lalaworld.io/lala-stellars-protocol-new-strategic/
+- note : `ERC20` for token, `Stellar` for payment ;p
+
 ## Develop
 - The Stellar Laboratory : https://www.stellar.org/laboratory
 - GraphQL : https://galactictalk.org/d/885-graphql-interface-for-core-and-horizon-databases/10
