@@ -68,6 +68,13 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - What to build : https://www.stellar.org/developers/guides/things-to-build.html
 - Stellar Build Challenge : https://www.stellar.org/lumens/build/
 
+## With Other chain
+- IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
+- ETH : https://github.com/stellar/go/tree/master/services/bifrost#demo
+
+## Pool
+- Free : https://lumenaut.net/
+
 ## Trade
 - StellarTerm : https://stellarterm.com
 - StellarTerm (test) : https://stellarterm.com/#testnet
