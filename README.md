@@ -1,4 +1,4 @@
-# hello-stellar
+# awesome-stellar
 My journey with Stellar (XLM) 🚀
 
 ![image](https://user-images.githubusercontent.com/97060/36775144-6547a3a2-1c93-11e8-91d1-bdb520dbd3b5.png)
