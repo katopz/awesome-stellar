@@ -73,6 +73,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
 - ETH, BTC : https://github.com/stellar/go/tree/master/services/bifrost#demo
 
+## Tools
+- ICO : https://stellar.army
+- Explorer : https://stellar.expert/explorer/public/
+- Dashboard : https://dashboard.stellar.org/
+
 ## How to get lumen
 - Inflation via free pool : https://lumenaut.net/
 - Stellar Build Challenge : https://www.stellar.org/lumens/build/
