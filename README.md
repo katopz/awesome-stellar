@@ -22,14 +22,6 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 
 ## Projects
 
-### Smartland (SLT)
-> Create digital Assets with blockchain
-- site : https://smartlands.io/
-- wp : https://smartlands.io/pdf/Whitepaper.pdf
-- why : https://smartlands.io/wp/2018/02/02/smartlands1-launches-platform-based-on-stellar-network/
-- trade : https://stellarterm.com/#exchange/SLT-smartlands.io/XLM-native
-- note : First hosted on the Stellar network on November 2nd, 2017.
-
 ### Mobius (MOBI)
 > Connecting the World to the Blockchain Ecosystem
 - site : https://mobius.network/
@@ -38,6 +30,14 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - why : https://www.coindesk.com/why-a-39-million-ico-chose-stellar-over-ethereum/
 - trade : https://stellarterm.com/#exchange/MOBI-mobius.network/XLM-native
 - note : Jed McCaleb is an advisor
+
+### Smartland (SLT)
+> Create digital Assets with blockchain
+- site : https://smartlands.io/
+- wp : https://smartlands.io/pdf/Whitepaper.pdf
+- why : https://smartlands.io/wp/2018/02/02/smartlands1-launches-platform-based-on-stellar-network/
+- trade : https://stellarterm.com/#exchange/SLT-smartlands.io/XLM-native
+- note : Hosted on the Stellar network on November 2nd, 2017.
 
 ### Irene Energy (TLU)
 > Stellar-powered Renewable Electricity Supplier
@@ -66,14 +66,16 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - The Stellar Laboratory : https://www.stellar.org/laboratory
 - GraphQL : https://galactictalk.org/d/885-graphql-interface-for-core-and-horizon-databases/10
 - What to build : https://www.stellar.org/developers/guides/things-to-build.html
-- Stellar Build Challenge : https://www.stellar.org/lumens/build/
+- Custom assets : https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html
+- Smart Contracts : https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html
 
-## With Other chain
+## With other chain
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
 - ETH : https://github.com/stellar/go/tree/master/services/bifrost#demo
 
-## Pool
-- Free : https://lumenaut.net/
+## How to get lumen
+- Inflation via free pool : https://lumenaut.net/
+- Stellar Build Challenge : https://www.stellar.org/lumens/build/
 
 ## Trade
 - StellarTerm : https://stellarterm.com
