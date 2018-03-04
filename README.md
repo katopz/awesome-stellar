@@ -69,9 +69,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Custom assets : https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html
 - Smart Contracts : https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html
 
-## With other chain
+## How to work with other blockchain
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
-- ETH : https://github.com/stellar/go/tree/master/services/bifrost#demo
+- ETH, BTC : https://github.com/stellar/go/tree/master/services/bifrost#demo
 
 ## How to get lumen
 - Inflation via free pool : https://lumenaut.net/
