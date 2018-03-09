@@ -20,6 +20,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Production for years
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
 
+## Partner
+- keybase.io : https://www.stellar.org/blog/keybase-and-stellar-partnership/
+
 ## Projects
 
 ### Mobius (MOBI)
