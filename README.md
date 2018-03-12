@@ -20,6 +20,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Production for years
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
 
+## Paper
+- https://www.stellar.org/developers/stellar-core/software/core-data-flow.pdf
+- https://www.stellar.org/papers/stellar-consensus-protocol.pdf
+- Adventures in Galactic Consensus : https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/
+
 ## Partner
 - keybase.io : https://www.stellar.org/blog/keybase-and-stellar-partnership/
 
