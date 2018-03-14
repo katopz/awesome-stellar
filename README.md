@@ -60,6 +60,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - site : https://kinecosystem.org/
 - blog : https://medium.com/kinfoundation
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
+- why : https://medium.com/kin-contributors/kin-stellar-sdk-initial-draft-839afcaaf55c
 - rewards : https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf
 - note : Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
 
