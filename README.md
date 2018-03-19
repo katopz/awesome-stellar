@@ -27,6 +27,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 
 ## Partner
 - keybase.io : https://www.stellar.org/blog/keybase-and-stellar-partnership/
+- BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
 
 ## Projects
 
@@ -57,12 +58,13 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - note : Not release yet?
 
 ### Kik, Kin Foundation
+> Funding by Tencent, https://globalcoinreport.com/will-kins-market-cap-return-to-1-billion-in-2018/
 - site : https://kinecosystem.org/
 - blog : https://medium.com/kinfoundation
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
 - why : https://medium.com/kin-contributors/kin-stellar-sdk-initial-draft-839afcaaf55c
 - rewards : https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf
-- note : Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
+- note : 15 million Kik users, Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
 
 ### LALA World (LALA)
 > Gearing Towards a Decentralised Financial Ecosystem
