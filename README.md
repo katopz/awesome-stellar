@@ -26,7 +26,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Adventures in Galactic Consensus : https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/
 
 ## Partner
-- keybase.io : https://www.stellar.org/blog/keybase-and-stellar-partnership/
+- keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
 - BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
 
 ## Projects
