@@ -28,10 +28,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ## Partner
 - keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
 - BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
+- SatoshiPay : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
 
 ## Projects
 
-### Mobius (MOBI)
+### Mobius (MOBI) $35M
 > Connecting the World to the Blockchain Ecosystem
 - site : https://mobius.network/
 - blog : https://medium.com/mobius-network
@@ -91,8 +92,8 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Dashboard : https://dashboard.stellar.org/
 
 ## How to get lumen
-- Inflation via free pool : https://lumenaut.net/
-- Stellar Build Challenge : https://www.stellar.org/lumens/build/
+- 1% Inflation via free pool : https://lumenaut.net/
+- Stellar Build Challenge (every 3 month) : https://www.stellar.org/lumens/build/
 
 ## Trade
 - StellarTerm : https://stellarterm.com
@@ -100,6 +101,10 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - StellarTerm (hidden) : https://stellarterm.com/#account/settings
 - Buy `XLM` directly (ref) : https://cex.io/r/0/up107588755/0/
 - Buy `XLM` with `ETH`/`BTC` (ref) : https://www.binance.com/?ref=13135950
+
+## Roadmap
+- Lightning Network : https://www.stellar.org/blog/lightning-on-stellar-roadmap/
+- FairX : https://www.stellar.org/blog/2018-Stellar-Roadmap/
 
 ## Donate
 - Me : `GDI6FBVJSHMF5PF6C7DDM57NAGYTYWMQQW2A6BVA6DTS2ZL7ZDRZBI2S`
