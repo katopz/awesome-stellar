@@ -82,6 +82,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Custom assets : https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html
 - Smart Contracts : https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html
 
+## Library
+- An easy-to-use Go Library for the Stellar payment network : https://github.com/0xfe/microstellar
+- A commandline client for the Stellar blockchain : https://github.com/0xfe/lumen
+- An open-source e-book on Stellar : https://github.com/0xfe/hacking-stellar
+
 ## Node
 - Core : https://github.com/satoshipay/docker-stellar-core
 - Horizon : https://github.com/satoshipay/docker-stellar-horizon
