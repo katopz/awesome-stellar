@@ -41,7 +41,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - trade : https://stellarterm.com/#exchange/MOBI-mobius.network/XLM-native
 - note : Jed McCaleb is an advisor
 
-### Smartland (SLT)
+### Smartland (SLT) $1,753,698
 > Create digital Assets with blockchain
 - site : https://smartlands.io/
 - wp : https://smartlands.io/pdf/Whitepaper.pdf
