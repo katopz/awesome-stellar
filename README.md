@@ -17,8 +17,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Secure as `Ripple`
 - Can issue token and `ICO`
 - Back by `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
-- Production for years
+- Production for many years
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
+- Universal Payment Solution : https://medium.com/@kuipr/ama-with-the-head-of-ibm-blockchain-jesse-lund-64b8fe13ceba
 
 ## Paper
 - https://www.stellar.org/developers/stellar-core/software/core-data-flow.pdf
@@ -74,6 +75,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - wp : https://lalaworld.io/whitepaper.pdf
 - why : https://blog.lalaworld.io/lala-stellars-protocol-new-strategic/
 - note : `ERC20` for token, `Stellar` for payment ;p
+
+### Heir.io
+- test : https://medium.com/@heir/results-from-heirs-recent-stellar-org-network-performance-test-next-steps-e2a2c35032a5
 
 ## Develop
 - The Stellar Laboratory : https://www.stellar.org/laboratory
