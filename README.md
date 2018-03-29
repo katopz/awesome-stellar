@@ -13,13 +13,15 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Can handle 1,000 - 10,000 tx/sec
 - Low latency : 3-5 secs (Fastest for now)
 - Lowest fees : 0.00001 `XLM`
+- Can issue assets and `ICO`
 - Build in `DEX`
-- Secure as `Ripple`
-- Can issue token and `ICO`
-- Back by `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
-- Production for many years
+- On production since 2013
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
 - Universal Payment Solution : https://medium.com/@kuipr/ama-with-the-head-of-ibm-blockchain-jesse-lund-64b8fe13ceba
+
+## Trusted by
+- `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
+- `Stripe` : https://stripe.com/blog/stellar
 
 ## Paper
 - https://www.stellar.org/developers/stellar-core/software/core-data-flow.pdf
