@@ -78,6 +78,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - why : https://blog.lalaworld.io/lala-stellars-protocol-new-strategic/
 - note : `ERC20` for token, `Stellar` for payment ;p
 
+### SIX
+> Reinventing the digital economy
+- site: https://six.network/
+- wp : https://six.network/documents/SIX-whitepaper-en.pdf
+
 ### Heir.io
 - test : https://medium.com/@heir/results-from-heirs-recent-stellar-org-network-performance-test-next-steps-e2a2c35032a5
 
