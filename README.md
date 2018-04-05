@@ -32,6 +32,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
 - BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
 - SatoshiPay : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
+- Coins.ph, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
+
+![](https://www.stellar.org/wp-content/uploads/2016/12/Countries-1-1.png)
 
 ## Projects
 
