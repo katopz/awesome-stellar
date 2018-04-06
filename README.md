@@ -114,9 +114,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Explorer : https://stellar.expert/explorer/public/
 - Dashboard : https://dashboard.stellar.org/
 - Node : https://stellarbeat.io/
+- Command Line : https://github.com/0xfe/lumen
 
 # Develop
 - Docker : https://github.com/StellarKit
+- Go : https://github.com/0xfe/microstellar
 
 ## How to get lumen
 - 1% Inflation via free pool : https://lumenaut.net/
