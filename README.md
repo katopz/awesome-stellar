@@ -122,7 +122,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 
 # Tutorials
 - ICO : https://medium.com/@katopz/ico-with-stellar-1ced0c729928
-- Pre-signed transaction : https://medium.com/@katopz/stellar-pre-signed-transaction-d93e91191c15
+- Pre-authorized Transaction : https://medium.com/@katopz/stellar-pre-signed-transaction-d93e91191c15
 
 ## How to get lumen
 - 1% Inflation via free pool : https://lumenaut.net/
@@ -136,8 +136,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Buy `XLM` with `ETH`/`BTC` (ref) : https://www.binance.com/?ref=13135950
 
 ## Roadmap
+> 2018 : https://www.stellar.org/blog/2018-Stellar-Roadmap/
 - Lightning Network : https://www.stellar.org/blog/lightning-on-stellar-roadmap/
-- FairX : https://www.stellar.org/blog/2018-Stellar-Roadmap/
+- FairX : https://github.com/fairxio
 
 ## Donate
 - Me : `GDI6FBVJSHMF5PF6C7DDM57NAGYTYWMQQW2A6BVA6DTS2ZL7ZDRZBI2S`
