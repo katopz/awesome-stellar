@@ -69,6 +69,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ### Kik, Kin Foundation
 > Funding by Tencent, https://globalcoinreport.com/will-kins-market-cap-return-to-1-billion-in-2018/
 - site : https://kinecosystem.org/
+- github : https://github.com/kinfoundation
 - blog : https://medium.com/kinfoundation
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
 - why : https://medium.com/kin-contributors/kin-stellar-sdk-initial-draft-839afcaaf55c
@@ -86,6 +87,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ### SIX
 > Reinventing the digital economy
 - site: https://six.network/
+- github : https://github.com/thesixnetwork
 - wp : https://six.network/documents/SIX-whitepaper-en.pdf
 
 ### Heir.io
@@ -106,6 +108,8 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ## Node
 - Core : https://github.com/satoshipay/docker-stellar-core
 - Horizon : https://github.com/satoshipay/docker-stellar-horizon
+- Docker-compose configuration for Stellar Federation : https://github.com/bloqhouse/stellar-federation-docker
+- Docker : https://github.com/StellarKit
 
 ## How to work with other blockchain
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
@@ -116,9 +120,6 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Explorer : https://stellar.expert/explorer/public/
 - Dashboard : https://dashboard.stellar.org/
 - Node : https://stellarbeat.io/
-
-# Develop
-- Docker : https://github.com/StellarKit
 
 # Tutorials
 - ICO : https://medium.com/@katopz/ico-with-stellar-1ced0c729928
@@ -138,7 +139,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ## Roadmap
 > 2018 : https://www.stellar.org/blog/2018-Stellar-Roadmap/
 - Lightning Network : https://www.stellar.org/blog/lightning-on-stellar-roadmap/
-- FairX : https://github.com/fairxio
+- FairX : https://fairx.io https://github.com/fairxio
 
 ## Donate
 - Me : `GDI6FBVJSHMF5PF6C7DDM57NAGYTYWMQQW2A6BVA6DTS2ZL7ZDRZBI2S`
