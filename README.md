@@ -94,6 +94,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ### Heir.io
 - test : https://medium.com/@heir/results-from-heirs-recent-stellar-org-network-performance-test-next-steps-e2a2c35032a5
 
+### BlockEQ
+- why : https://medium.com/@blockeq/why-we-chose-stellar-e5b9966c63b7
+
 ## Develop
 - The Stellar Laboratory : https://www.stellar.org/laboratory
 - GraphQL : https://galactictalk.org/d/885-graphql-interface-for-core-and-horizon-databases/10
@@ -114,6 +117,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 
 ## How to work with other blockchain
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
+- IPFS : https://jes.al/2018/04/building-an-app-with-stellar-and-ipfs/
 - ETH, BTC : https://github.com/stellar/go/tree/master/services/bifrost#demo
 
 ## Tools
