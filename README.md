@@ -29,6 +29,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Adventures in Galactic Consensus : https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/
 - Quorum slices and the quorum function : https://etale-cohomology.github.io/stellar-tutorials/blog1.html
 - SCP : https://www.stellar.org/wp-content/uploads/2015/04/scp-talk.pdf
+- Talk : https://www.youtube.com/watch?v=vmwnhZmEZjc
 
 ## Partner
 - keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
