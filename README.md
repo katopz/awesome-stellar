@@ -13,9 +13,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Can handle 1,000 - 10,000 tx/sec
 - Low latency : 3-5 secs (Fastest for now)
 - Lowest fees : 0.00001 `XLM`
-- Can issue assets and `ICO`
+- Can issue assets and `ICO` : https://hackernoon.com/why-stellar-could-be-the-next-big-ico-platform-f48fc3cb9a6c
 - Build in `DEX`
-- On production since 2013
+- On production since 2014
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
 - Universal Payment Solution : https://medium.com/@kuipr/ama-with-the-head-of-ibm-blockchain-jesse-lund-64b8fe13ceba
 
