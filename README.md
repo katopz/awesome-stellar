@@ -19,9 +19,16 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Invest in [Hyperledger Fabric](http://www-03.ibm.com/press/us/en/pressrelease/53290.wss), [Lightning Network](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
 - Universal Payment Solution : https://medium.com/@kuipr/ama-with-the-head-of-ibm-blockchain-jesse-lund-64b8fe13ceba
 
-## Trusted by
+![](https://www.stellar.org/wp-content/uploads/2016/12/Countries-1-1.png)
+
+## Partner
 - `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
 - `Stripe` : https://stripe.com/blog/stellar
+- `Deloitte` : https://www.stellar.org/blog/deloitte-launch/
+- Coins.ph, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
+- BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
+- SatoshiPay : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
+- keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
 
 ## Paper
 - https://www.stellar.org/developers/stellar-core/software/core-data-flow.pdf
@@ -30,14 +37,6 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Quorum slices and the quorum function : https://etale-cohomology.github.io/stellar-tutorials/blog1.html
 - SCP : https://www.stellar.org/wp-content/uploads/2015/04/scp-talk.pdf
 - Talk : https://www.youtube.com/watch?v=vmwnhZmEZjc
-
-## Partner
-- keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
-- BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
-- SatoshiPay : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
-- Coins.ph, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
-
-![](https://www.stellar.org/wp-content/uploads/2016/12/Countries-1-1.png)
 
 ## Projects
 
