@@ -145,5 +145,15 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Lightning Network : https://www.stellar.org/blog/lightning-on-stellar-roadmap/
 - FairX : https://fairx.io https://github.com/fairxio
 
+## Why not others?
+- Ethereum : 15 tx/s, Too slow, higher fee, not stable
+- NEO (China)
+  - http://storeofvalueblog.com/posts/major-neo-redflags/
+  - http://storeofvalueblog.com/posts/how-centralized-is-neo/
+- OMG : Not release yet Q4? : http://storeofvalueblog.com/posts/stellar-lumens-what-is-it-and-should-you-invest/
+- EOS, NEM (Japan) : https://hackernoon.com/who-is-the-next-microsoft-in-blockchain-d81771539ccc
+- ADA : 257 tx/s, Too slow
+- ICON (South Korea): 9,000 tx/s, Too young (mainnet Q1/2018)
+
 ## Donate
 - Me : `GDI6FBVJSHMF5PF6C7DDM57NAGYTYWMQQW2A6BVA6DTS2ZL7ZDRZBI2S`
