@@ -106,6 +106,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - What to build : https://www.stellar.org/developers/guides/things-to-build.html
 - Custom assets : https://www.stellar.org/developers/guides/walkthroughs/custom-assets.html
 - Smart Contracts : https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html
+- Knowledge base : https://www.lumenauts.com/
 
 ## Library
 - An easy-to-use Go Library for the Stellar payment network : https://github.com/0xfe/microstellar
