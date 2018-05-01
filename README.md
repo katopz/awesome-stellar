@@ -79,6 +79,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
 - why : https://www.lumenauts.com/blog/kik-founder-ted-livingston-on-why-kin-chose-stellar
 - rewards : https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf
+- test : [src]() https://medium.com/kin-contributors/stellar-load-testing-results-for-the-kin-ecosystem-64c4d8676e69
 - note : 15 million Kik users, Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
 
 ### LALA World (LALA)
