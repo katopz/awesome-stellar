@@ -77,7 +77,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - github : https://github.com/kinfoundation
 - blog : https://medium.com/kinfoundation
 - wp : https://kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf
-- why : https://medium.com/kin-contributors/kin-stellar-sdk-initial-draft-839afcaaf55c
+- why : https://www.lumenauts.com/blog/kik-founder-ted-livingston-on-why-kin-chose-stellar
 - rewards : https://kinecosystem.org/static/files/Kin_Rewards_Engine_RFC.pdf
 - note : 15 million Kik users, Underdevelopment, https://github.com/kinfoundation/stellar-load-testing
 
@@ -145,6 +145,9 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - StellarTerm (hidden) : https://stellarterm.com/#account/settings
 - Buy `XLM` directly (ref) : https://cex.io/r/0/up107588755/0/
 - Buy `XLM` with `ETH`/`BTC` (ref) : https://www.binance.com/?ref=13135950
+
+## Economics
+- [What Stellar Lumens Teaches Us About Token Economics]()
 
 ## Roadmap
 > 2018 : https://www.stellar.org/blog/2018-Stellar-Roadmap/
