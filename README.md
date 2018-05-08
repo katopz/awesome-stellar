@@ -25,6 +25,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
 - `Stripe` : https://stripe.com/blog/stellar
 - `Deloitte` : https://www.stellar.org/blog/deloitte-launch/
+- `KlickEx` : https://www.klickex.co/news/
 - `Coins.ph`, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
 - `BluepanNet` : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
 - `SatoshiPay` : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
