@@ -25,10 +25,10 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - `IBM` : https://www.ibm.com/blogs/blockchain/2017/10/on-the-horizon-new-blockchain-solution-for-cross-border-payments/
 - `Stripe` : https://stripe.com/blog/stellar
 - `Deloitte` : https://www.stellar.org/blog/deloitte-launch/
-- Coins.ph, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
-- BluepanNet : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
-- SatoshiPay : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
-- keybase.io : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
+- `Coins.ph`, Flutterwave, ICICI Bank, Tempo Money Transfer : https://www.stellar.org/blog/global-partnerships/
+- `BluepanNet` : https://ambcrypto.com/stellar-enabled-money-transfer-platform-to-be-launched-by-bluepannet/
+- `SatoshiPay` : https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72
+- `keybase.io` : [keybase-and-stellar-partnership](https://www.stellar.org/blog/keybase-and-stellar-partnership/) [keybase-stellar](https://keybase.io/blog/keybase-stellar)
 
 ## Paper
 - Core Data Flow : https://www.stellar.org/developers/stellar-core/software/core-data-flow.pdf
@@ -125,6 +125,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - IPFS : http://abcxyz.de/2018/02/08/using-ipfs-as-memo-in-stellar-transaction/
 - IPFS : https://jes.al/2018/04/building-an-app-with-stellar-and-ipfs/
 - ETH, BTC : https://github.com/stellar/go/tree/master/services/bifrost#demo
+- Hyperledger Fabric : https://medium.com/wearetheledger/what-weve-built-to-win-the-worlds-biggest-blockchain-hackathon-of-2018-ea01decfd60c
 
 ## Tools
 - ICO : https://stellar.army
