@@ -137,6 +137,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 # Tutorials
 - ICO : https://medium.com/@katopz/ico-with-stellar-1ced0c729928
 - Pre-authorized Transaction : https://medium.com/@katopz/stellar-pre-signed-transaction-d93e91191c15
+- [Distributed Trustless Workers with Stellar](https://medium.com/lumenauts/distributed-trustless-workers-with-stellar-e197fd1b77f6)
 
 ## How to get lumen
 - 1% Inflation via free pool : https://lumenaut.net/
