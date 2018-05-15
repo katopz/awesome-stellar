@@ -103,6 +103,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 ### BlockEQ
 - why : https://medium.com/@blockeq/why-we-chose-stellar-e5b9966c63b7
 
+### Veridium
+> Veridium is collaborating with IBM to help transform the carbon credit market using blockchain technology
+- site : https://veridium.io/
+- wp : https://veridium.io/assets/uploads/Veridium-White-Paper.pdf
+
 ## Develop
 - The Stellar Laboratory : https://www.stellar.org/laboratory
 - GraphQL : https://galactictalk.org/d/885-graphql-interface-for-core-and-horizon-databases/10
