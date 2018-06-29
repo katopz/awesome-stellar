@@ -108,6 +108,11 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - site : https://veridium.io/
 - wp : https://veridium.io/assets/uploads/Veridium-White-Paper.pdf
 
+### Poseidon
+> Own Your Carbon Footprint
+- site : https://poseidon.eco/
+- wp : https://poseidon.eco/assets/documents/Poseidon-White-Paper.pdf
+
 ## Develop
 - The Stellar Laboratory : https://www.stellar.org/laboratory
 - GraphQL : https://galactictalk.org/d/885-graphql-interface-for-core-and-horizon-databases/10
