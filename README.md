@@ -37,6 +37,8 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - Adventures in Galactic Consensus : https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/
 - Quorum slices and the quorum function : https://etale-cohomology.github.io/stellar-tutorials/blog1.html
 - SCP : https://www.stellar.org/wp-content/uploads/2015/04/scp-talk.pdf
+- Updated SCP : https://datatracker.ietf.org/doc/draft-mazieres-dinrg-scp/
+- IETF 102 : https://datatracker.ietf.org/meeting/102/materials/slides-102-dinrg-stellar-consensus-protocol-update-david-mazieres-00
 
 ## Video
 - [David Mazières: "The Stellar Consensus Protocol" | Talks at Google](https://www.youtube.com/watch?v=vmwnhZmEZjc)
