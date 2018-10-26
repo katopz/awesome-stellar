@@ -45,6 +45,7 @@ In keeping with IBM's commitment to open source, the solution is run from the IB
 - [dotScale 2017 - David Mazières - Internet-level consensus is practical](https://www.youtube.com/watch?v=zTI1HAWDHIg)
 - [How the Stellar Consensus Protocol (Federated Byzantine Agreement) Works](https://www.youtube.com/watch?v=X3Gj2nQZCNM)
 - [What Makes Stellar An Ideal ICO Platform?](https://www.youtube.com/watch?v=4uSDMGtqnPg)
+- [David Mazieres | Security Workshop - April 9, 2018](https://www.youtube.com/watch?v=X7WBIOZXZew)
 
 ## Projects
 
